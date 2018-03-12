@@ -11,7 +11,7 @@
     {
       "semantic_type": "devlog/image",
       "extension": ".png,.jpg",
-      "path": "blog"
+      "path": "devlog"
     }
   ]
 }
