@@ -1,0 +1,13 @@
+{
+  "name": "ohmnilabs-arc-reactor",
+  "description": "OhmniLabs Arc Reactor, 2 Gigawatt output :)",
+  "version": "0.0.2",
+  "contents": [
+    {
+      "semantic_type": "mechanical/stl",
+      "extension": ".stl",
+      "path": "mech",
+    },
+  ]
+}
+
