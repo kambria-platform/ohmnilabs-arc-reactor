@@ -6,8 +6,14 @@
     {
       "semantic_type": "mechanical/stl",
       "extension": ".stl",
-      "path": "mech",
+      "path": "mech"
     },
+    {
+      "semantic_type": "devlog/image",
+      "extension": ".png,.jpg",
+      "path": "blog"
+    }
   ]
 }
+
 
