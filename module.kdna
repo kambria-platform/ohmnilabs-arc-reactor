@@ -2,6 +2,7 @@
   "name": "ohmnilabs-arc-reactor",
   "description": "OhmniLabs Arc Reactor, 2 Gigawatt output :)",
   "version": "0.0.2",
+  "semantic_type": "project",
   "contents": [
     {
       "semantic_type": "mechanical/stl",
@@ -12,6 +13,14 @@
       "semantic_type": "devlog/image",
       "extension": ".png,.jpg",
       "path": "devlog"
+    }
+    {
+      "semantic_type": "electrical",
+      "path": "github.com/kambria-platform/tb-light-hardware"
+    },
+    {
+      "semantic_type": "firmware",
+      "path": "github.com/kambria-platform/tb-light-firmware"
     }
   ]
 }
