@@ -13,11 +13,11 @@
       "semantic_type": "devlog/image",
       "extension": ".png,.jpg",
       "path": "devlog"
-    }
+    },
     {
       "semantic_type": "electrical",
       "path": "github.com/kambria-platform/tb-light-hardware"
-    },
+    }
   ]
 }
 
