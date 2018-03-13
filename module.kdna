@@ -18,10 +18,6 @@
       "semantic_type": "electrical",
       "path": "github.com/kambria-platform/tb-light-hardware"
     },
-    {
-      "semantic_type": "firmware",
-      "path": "github.com/kambria-platform/tb-light-firmware"
-    }
   ]
 }
 
