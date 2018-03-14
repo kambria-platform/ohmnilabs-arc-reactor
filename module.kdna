@@ -10,9 +10,9 @@
       "path": "mech"
     },
     {
-      "semantic_type": "devlog/image",
+      "semantic_type": "image",
       "extension": ".png,.jpg",
-      "path": "devlog"
+      "path": "images"
     },
     {
       "semantic_type": "electrical",
